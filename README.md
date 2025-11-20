@@ -1,4 +1,4 @@
-<img width="1432" height="652" alt="{8063F561-0584-4DEF-8312-B26268F15DE3}" src="https://github.com/user-attachments/assets/20a02649-7e6b-4792-a272-33d13d659f08" /># Automated grant disburser
+ /># Automated grant disburser
 
 ## 📌 Project Description
 The **Automated Grant Disburser** is a blockchain-based system designed to streamline and automate the distribution of grant funds. It ensures transparency, security, and accountability by allowing grant creation, approval, and on-chain disbursement through a smart contract.
